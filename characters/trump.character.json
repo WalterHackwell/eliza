@@ -4,6 +4,7 @@
     "modelProvider": "openai",
     "settings": {
         "secrets": {},
+        "imageSettings": {},
         "voice": {
             "model": "en_US-male-medium"
         }
